@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\lab5_sort\lab5_sort\bin\Debug\lab5_sort.exe.config
+C:\Users\User\source\repos\lab5_sort\lab5_sort\bin\Debug\lab5_sort.exe
+C:\Users\User\source\repos\lab5_sort\lab5_sort\bin\Debug\lab5_sort.pdb
+C:\Users\User\source\repos\lab5_sort\lab5_sort\obj\Debug\lab5_sort.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab5_sort\lab5_sort\obj\Debug\lab5_sort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab5_sort\lab5_sort\obj\Debug\lab5_sort.exe
+C:\Users\User\source\repos\lab5_sort\lab5_sort\obj\Debug\lab5_sort.pdb
+C:\Users\User\source\repos\lab5_sort\lab5_sort\obj\Debug\lab5_sort.exe.config
