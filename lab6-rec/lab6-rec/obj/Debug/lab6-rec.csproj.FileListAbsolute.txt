@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\lab6-rec\lab6-rec\bin\Debug\lab6-rec.exe.config
+C:\Users\User\source\repos\lab6-rec\lab6-rec\bin\Debug\lab6-rec.exe
+C:\Users\User\source\repos\lab6-rec\lab6-rec\bin\Debug\lab6-rec.pdb
+C:\Users\User\source\repos\lab6-rec\lab6-rec\obj\Debug\lab6-rec.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab6-rec\lab6-rec\obj\Debug\lab6-rec.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab6-rec\lab6-rec\obj\Debug\lab6-rec.exe
+C:\Users\User\source\repos\lab6-rec\lab6-rec\obj\Debug\lab6-rec.pdb
+C:\Users\User\source\repos\lab6-rec\lab6-rec\obj\Debug\lab6-rec.exe.config
