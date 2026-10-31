@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\laboratorna8\laboratorna8\bin\Debug\laboratorna8.exe.config
+C:\Users\User\source\repos\laboratorna8\laboratorna8\bin\Debug\laboratorna8.exe
+C:\Users\User\source\repos\laboratorna8\laboratorna8\bin\Debug\laboratorna8.pdb
+C:\Users\User\source\repos\laboratorna8\laboratorna8\obj\Debug\laboratorna8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\laboratorna8\laboratorna8\obj\Debug\laboratorna8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\laboratorna8\laboratorna8\obj\Debug\laboratorna8.exe
+C:\Users\User\source\repos\laboratorna8\laboratorna8\obj\Debug\laboratorna8.pdb
+C:\Users\User\source\repos\laboratorna8\laboratorna8\obj\Debug\laboratorna8.exe.config
